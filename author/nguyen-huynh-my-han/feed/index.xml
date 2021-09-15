@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/author/nguyen-huynh-my-han/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 08 Sep 2021 03:30:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 04:10:55 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,26 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>du lịch Đà Lạt</title>
-		<link>https://myhan1703.github.io/mywordpress/du-lich-da-lat/</link>
-					<comments>https://myhan1703.github.io/mywordpress/du-lich-da-lat/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
-		<pubDate>Wed, 08 Sep 2021 03:28:06 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?p=66</guid>
-
-					<description><![CDATA[hồ Xuân Hương]]></description>
-										<content:encoded><![CDATA[
-<p>Hồ Xuân Hương</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://myhan1703.github.io/mywordpress/du-lich-da-lat/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Saffron Bun</title>
 		<link>https://myhan1703.github.io/mywordpress/saffron-bun/</link>
 					<comments>https://myhan1703.github.io/mywordpress/saffron-bun/#respond</comments>
@@ -73,7 +53,7 @@
 		
 			</item>
 		<item>
-		<title>Ẩm thực châu Âu</title>
+		<title>bò bít tết kiểu Pháp</title>
 		<link>https://myhan1703.github.io/mywordpress/am-thuc-chau-au/</link>
 					<comments>https://myhan1703.github.io/mywordpress/am-thuc-chau-au/#respond</comments>
 		
