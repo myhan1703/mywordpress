@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Đồng hồ Gucci &#8211; My project</title>
+	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/dong-ho-gucci/feed/" rel="self" type="application/rss+xml" />
+	<link>https://myhan1703.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 06:47:10 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Đồng hồ Gucci</title>
+		<link>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-3/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 04:16:51 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=150</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Gucci</title>
+		<link>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-2/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 04:14:36 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=148</guid>
+
+					<description><![CDATA[Có 3 màu: Đồng, bạc, vàng]]></description>
+										<content:encoded><![CDATA[<p>Có 3 màu: Đồng, bạc, vàng</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Gucci</title>
+		<link>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 04:12:30 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=145</guid>
+
+					<description><![CDATA[Có 3 màu: đỏ, trắng, hồng]]></description>
+										<content:encoded><![CDATA[<p>Có 3 màu: đỏ, trắng, hồng</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

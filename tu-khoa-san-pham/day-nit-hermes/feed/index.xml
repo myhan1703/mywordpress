@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dây nịt Hermes &#8211; My project</title>
+	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/day-nit-hermes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://myhan1703.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 06:51:23 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Dây nịt Hermes</title>
+		<link>https://myhan1703.github.io/mywordpress/product/day-nit-hermes-2/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/day-nit-hermes-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:32:35 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=143</guid>
+
+					<description><![CDATA[100x5cm (dài rộng)]]></description>
+										<content:encoded><![CDATA[<p>100x5cm (dài rộng)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dây nịt Hermes</title>
+		<link>https://myhan1703.github.io/mywordpress/product/day-nit-hermes/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/day-nit-hermes/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:28:00 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=140</guid>
+
+					<description><![CDATA[có 2 màu mặt: vàng, bạc]]></description>
+										<content:encoded><![CDATA[<p>có 2 màu mặt: vàng, bạc</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

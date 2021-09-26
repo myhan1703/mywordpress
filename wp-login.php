@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://myhan1703.github.io/mywordpress/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
+								<a href="https://myhan1703.github.io/mywordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -83,7 +83,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://myhan1703.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"441e8c7c31"};
+var userProfileL10n = {"user_id":"0","nonce":"da8ced79b9"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -93,9 +93,6 @@ var userProfileL10n = {"user_id":"0","nonce":"441e8c7c31"};
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
 <script src="https://myhan1703.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-	</script>
-		<div class="clear"></div>
+	<div class="clear"></div>
 	</body>
 	</html>
