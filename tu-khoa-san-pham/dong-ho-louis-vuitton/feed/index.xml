@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Đồng hồ Louis Vuitton &#8211; My project</title>
+	<title>Đồng hồ Louis Vuitton &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/dong-ho-louis-vuitton/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 26 Sep 2021 07:51:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,9 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=156</guid>
 
 					<description><![CDATA[Mặt tròn,dây da đen]]></description>
-										<content:encoded><![CDATA[<p>Mặt tròn,dây da đen</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -47,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=154</guid>
 
 					<description><![CDATA[Mặt tròn, đính đá cực sang trọng]]></description>
-										<content:encoded><![CDATA[<p>Mặt tròn, đính đá cực sang trọng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -65,9 +61,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=152</guid>
 
 					<description><![CDATA[Có 3 màu: Đen, đỏ, hồng]]></description>
-										<content:encoded><![CDATA[<p>Có 3 màu: Đen, đỏ, hồng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

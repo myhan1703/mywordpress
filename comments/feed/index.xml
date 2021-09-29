@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My project	</title>
+	Bình luận cho  hana	</title>
 	<atom:link href="http://localhost/myproject/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 18 Aug 2021 04:03:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

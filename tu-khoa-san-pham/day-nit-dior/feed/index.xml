@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Dây nịt Dior &#8211; My project</title>
+	<title>Dây nịt Dior &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/day-nit-dior/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 26 Sep 2021 06:45:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,9 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=132</guid>
 
 					<description><![CDATA[100x3cm (Dài, rộng)]]></description>
-										<content:encoded><![CDATA[<p>100x3cm (Dài, rộng)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-dior-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -47,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=130</guid>
 
 					<description><![CDATA[Có 2 màu: Bạc, vàng]]></description>
-										<content:encoded><![CDATA[<p>Có 2 màu: Bạc, vàng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-dior/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

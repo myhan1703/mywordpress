@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Dây nịt Louis Vuitton &#8211; My project</title>
+	<title>Dây nịt Louis Vuitton &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/day-nit-louis-vuitton/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 26 Sep 2021 07:50:10 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,9 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=127</guid>
 
 					<description><![CDATA[Có 2 màu: Đen, nâu]]></description>
-										<content:encoded><![CDATA[<p>Có 2 màu: Đen, nâu</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-louis-vuitton-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -47,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=125</guid>
 
 					<description><![CDATA[Có 3 mặt: Đen, bạc, vàng]]></description>
-										<content:encoded><![CDATA[<p>Có 3 mặt: Đen, bạc, vàng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-louis-vuitton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

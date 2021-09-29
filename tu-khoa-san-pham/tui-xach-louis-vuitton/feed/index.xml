@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Túi xách Louis Vuitton &#8211; My project</title>
+	<title>Túi xách Louis Vuitton &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/tui-xach-louis-vuitton/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 26 Sep 2021 08:59:43 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,10 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=90</guid>
 
 					<description><![CDATA[Túi đeo chéo cực sang trọng 22x10x13(Dài, rộng, cao)]]></description>
-										<content:encoded><![CDATA[<p>Túi đeo chéo cực sang trọng</p>
-<p>22x10x13(Dài, rộng, cao)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/tui-xach-louis-vuitton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -48,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=89</guid>
 
 					<description><![CDATA[10x20x15cm (Chiều rộng, chiều dài, chiều cao)]]></description>
-										<content:encoded><![CDATA[<p>10x20x15cm (Chiều rộng, chiều dài, chiều cao)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/tui-xach-louis-vuitton-dang-hop/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

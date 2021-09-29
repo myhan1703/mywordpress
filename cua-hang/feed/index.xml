@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; My project</title>
+	<title>Sản phẩm &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 07:51:37 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 28 Sep 2021 12:47:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=156</guid>
 
 					<description><![CDATA[Mặt tròn,dây da đen]]></description>
-										<content:encoded><![CDATA[<p>Mặt tròn,dây da đen</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -47,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=154</guid>
 
 					<description><![CDATA[Mặt tròn, đính đá cực sang trọng]]></description>
-										<content:encoded><![CDATA[<p>Mặt tròn, đính đá cực sang trọng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -65,9 +61,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=152</guid>
 
 					<description><![CDATA[Có 3 màu: Đen, đỏ, hồng]]></description>
-										<content:encoded><![CDATA[<p>Có 3 màu: Đen, đỏ, hồng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -83,8 +77,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=150</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -100,9 +93,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=148</guid>
 
 					<description><![CDATA[Có 3 màu: Đồng, bạc, vàng]]></description>
-										<content:encoded><![CDATA[<p>Có 3 màu: Đồng, bạc, vàng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -118,9 +109,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=145</guid>
 
 					<description><![CDATA[Có 3 màu: đỏ, trắng, hồng]]></description>
-										<content:encoded><![CDATA[<p>Có 3 màu: đỏ, trắng, hồng</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/dong-ho-gucci/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -136,9 +125,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=143</guid>
 
 					<description><![CDATA[100x5cm (dài rộng)]]></description>
-										<content:encoded><![CDATA[<p>100x5cm (dài rộng)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -154,9 +141,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=140</guid>
 
 					<description><![CDATA[có 2 màu mặt: vàng, bạc]]></description>
-										<content:encoded><![CDATA[<p>có 2 màu mặt: vàng, bạc</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -172,10 +157,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=138</guid>
 
 					<description><![CDATA[Có 6 màu: Hồng nude, nâu nude, nâu đất, xám, đỏ, đen 100x5cm (Dài x rộng)]]></description>
-										<content:encoded><![CDATA[<p>Có 6 màu: Hồng nude, nâu nude, nâu đất, xám, đỏ, đen</p>
-<p>100x5cm (Dài x rộng)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -191,10 +173,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=136</guid>
 
 					<description><![CDATA[Có 5 màu: Trắng, đen, Đỏ, Đỏ đô, xanh lam 100x3cm (Dài x rộng)]]></description>
-										<content:encoded><![CDATA[<p>Có 5 màu: Trắng, đen, Đỏ, Đỏ đô, xanh lam</p>
-<p>100x3cm (Dài x rộng)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Dây nịt Hermes &#8211; My project</title>
+	<title>Dây nịt Hermes &#8211;  hana</title>
 	<atom:link href="http://localhost/myproject/tu-khoa-san-pham/day-nit-hermes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Sun, 26 Sep 2021 06:51:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -29,9 +29,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=143</guid>
 
 					<description><![CDATA[100x5cm (dài rộng)]]></description>
-										<content:encoded><![CDATA[<p>100x5cm (dài rộng)</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -47,9 +45,7 @@
 				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=140</guid>
 
 					<description><![CDATA[có 2 màu mặt: vàng, bạc]]></description>
-										<content:encoded><![CDATA[<p>có 2 màu mặt: vàng, bạc</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-hermes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
