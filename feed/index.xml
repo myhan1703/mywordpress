@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 15 Sep 2021 04:10:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 16:01:09 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Saffron Bun</title>
+		<title>CHANEL</title>
+		<link>https://myhan1703.github.io/mywordpress/chanel/</link>
+					<comments>https://myhan1703.github.io/mywordpress/chanel/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 16:01:09 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?p=202</guid>
+
+					<description><![CDATA[Chanel là tên thông dụng của một hãng thời trang Pháp, đóng tại thủ đô Paris được Coco Chanel (1883 &#8211; 1971) sáng lập. Theo Forbes, công ty Chanel thuộc sở hữu của Alain Wertheimer và Gerard Wertheimer, cả hai là cháu của đối tác ban đầu (1924) của Chanel Pierre Wertheimer. Được thành lập từ những [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/chanel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DIOR</title>
 		<link>https://myhan1703.github.io/mywordpress/saffron-bun/</link>
 					<comments>https://myhan1703.github.io/mywordpress/saffron-bun/#respond</comments>
 		
@@ -38,7 +55,7 @@
 		
 			</item>
 		<item>
-		<title>bò bít tết kiểu Pháp</title>
+		<title>GUCCI</title>
 		<link>https://myhan1703.github.io/mywordpress/am-thuc-chau-au/</link>
 					<comments>https://myhan1703.github.io/mywordpress/am-thuc-chau-au/#respond</comments>
 		

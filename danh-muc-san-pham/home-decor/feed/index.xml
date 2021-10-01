@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/danh-muc-san-pham/home-decor/feed/" rel="self" type="application/rss+xml" />
 	<link>https://myhan1703.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Sep 2021 12:47:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 16:04:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Túi giấy</title>
+		<link>https://myhan1703.github.io/mywordpress/product/tui-giay/</link>
+					<comments>https://myhan1703.github.io/mywordpress/product/tui-giay/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 15:40:40 +0000</pubDate>
+				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=193</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/tui-giay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Đồng hồ Louis Vuitton</title>
 		<link>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-3/</link>
 					<comments>https://myhan1703.github.io/mywordpress/product/dong-ho-louis-vuitton-3/#respond</comments>
@@ -159,22 +175,6 @@
 					<description><![CDATA[Có 6 màu: Hồng nude, nâu nude, nâu đất, xám, đỏ, đen 100x5cm (Dài x rộng)]]></description>
 		
 					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Dây nịt Chanel</title>
-		<link>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-2/</link>
-					<comments>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-2/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyen Huynh My Han]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 03:18:41 +0000</pubDate>
-				<guid isPermaLink="false">https://myhan1703.github.io/mywordpress/?post_type=product&#038;p=136</guid>
-
-					<description><![CDATA[Có 5 màu: Trắng, đen, Đỏ, Đỏ đô, xanh lam 100x3cm (Dài x rộng)]]></description>
-		
-					<wfw:commentRss>https://myhan1703.github.io/mywordpress/product/day-nit-chanel-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
