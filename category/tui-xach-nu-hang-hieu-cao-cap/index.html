@@ -41,17 +41,195 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }</style>
-	<link rel="stylesheet" id="wp-block-library-css" href="https://myhan1703.github.io/mywordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
+	<link rel="stylesheet" id="bootstrap-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="hestia-font-sizes-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/css/font-sizes.min.css?ver=3.0.19" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://myhan1703.github.io/mywordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.5.1" type="text/css" media="all">
 <link rel="stylesheet" id="wc-blocks-style-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.1" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-layout-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.6.0" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.6.0" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.6.0" type="text/css" media="all">
 <style id="woocommerce-inline-inline-css" type="text/css">.woocommerce form .form-row .required { visibility: visible; }</style>
-<link rel="stylesheet" id="bootstrap-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="hestia-font-sizes-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/css/font-sizes.min.css?ver=3.0.19" type="text/css" media="all">
 <link rel="stylesheet" id="hestia_style-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/style.min.css?ver=3.0.19" type="text/css" media="all">
-<style id="hestia_style-inline-css" type="text/css">.hestia-top-bar, .hestia-top-bar .widget.widget_shopping_cart .cart_list {
+<style id="hestia_style-inline-css" type="text/css">div.wpforms-container-full .wpforms-form div.wpforms-field input.wpforms-error {
+				border: none;
+			}
+			div.wpforms-container .wpforms-form input[type=date],
+			div.wpforms-container .wpforms-form input[type=datetime],
+			div.wpforms-container .wpforms-form input[type=datetime-local],
+			div.wpforms-container .wpforms-form input[type=email],
+			div.wpforms-container .wpforms-form input[type=month],
+			div.wpforms-container .wpforms-form input[type=number],
+			div.wpforms-container .wpforms-form input[type=password],
+			div.wpforms-container .wpforms-form input[type=range],
+			div.wpforms-container .wpforms-form input[type=search],
+			div.wpforms-container .wpforms-form input[type=tel],
+			div.wpforms-container .wpforms-form input[type=text],
+			div.wpforms-container .wpforms-form input[type=time],
+			div.wpforms-container .wpforms-form input[type=url],
+			div.wpforms-container .wpforms-form input[type=week],
+			div.wpforms-container .wpforms-form select,
+			div.wpforms-container .wpforms-form textarea, .nf-form-cont input:not([type=button]),
+			div.wpforms-container .wpforms-form .form-group.is-focused .form-control {
+			  box-shadow: none;
+			}
+			
+			div.wpforms-container .wpforms-form input[type=date],
+			div.wpforms-container .wpforms-form input[type=datetime],
+			div.wpforms-container .wpforms-form input[type=datetime-local],
+			div.wpforms-container .wpforms-form input[type=email],
+			div.wpforms-container .wpforms-form input[type=month],
+			div.wpforms-container .wpforms-form input[type=number],
+			div.wpforms-container .wpforms-form input[type=password],
+			div.wpforms-container .wpforms-form input[type=range],
+			div.wpforms-container .wpforms-form input[type=search],
+			div.wpforms-container .wpforms-form input[type=tel],
+			div.wpforms-container .wpforms-form input[type=text],
+			div.wpforms-container .wpforms-form input[type=time],
+			div.wpforms-container .wpforms-form input[type=url],
+			div.wpforms-container .wpforms-form input[type=week],
+			div.wpforms-container .wpforms-form select,
+			div.wpforms-container .wpforms-form textarea, .nf-form-cont input:not([type=button]){
+				background-image: linear-gradient(#9c27b0, #9c27b0), linear-gradient(#d2d2d2, #d2d2d2);
+				float: none;
+				border: 0;
+				border-radius: 0;
+				background-color: transparent;
+				background-repeat: no-repeat;
+				background-position: center bottom, center calc(100% - 1px);
+				background-size: 0 2px, 100% 1px;
+				font-weight: 400;
+				transition: background 0s ease-out;
+			}
+			
+			div.wpforms-container .wpforms-form .form-group.is-focused .form-control{
+				outline: none;
+				background-size: 100% 2px,100% 1px;
+				transition-duration: 0.3s;
+			}
+			
+			/* Compatibility with WPForms */
+			div.wpforms-container .wpforms-form input[type=date].form-control,
+			div.wpforms-container .wpforms-form input[type=datetime].form-control,
+			div.wpforms-container .wpforms-form input[type=datetime-local].form-control,
+			div.wpforms-container .wpforms-form input[type=email].form-control,
+			div.wpforms-container .wpforms-form input[type=month].form-control,
+			div.wpforms-container .wpforms-form input[type=number].form-control,
+			div.wpforms-container .wpforms-form input[type=password].form-control,
+			div.wpforms-container .wpforms-form input[type=range].form-control,
+			div.wpforms-container .wpforms-form input[type=search].form-control,
+			div.wpforms-container .wpforms-form input[type=tel].form-control,
+			div.wpforms-container .wpforms-form input[type=text].form-control,
+			div.wpforms-container .wpforms-form input[type=time].form-control,
+			div.wpforms-container .wpforms-form input[type=url].form-control,
+			div.wpforms-container .wpforms-form input[type=week].form-control,
+			div.wpforms-container .wpforms-form select.form-control,
+			div.wpforms-container .wpforms-form textarea.form-control {
+			  border: none;
+			  padding: 7px 0;
+			  font-size: 14px;
+			}
+			div.wpforms-container .wpforms-form .wpforms-field-select select {
+			  border-radius: 3px;
+			}
+			div.wpforms-container .wpforms-form .wpforms-field-number input[type=number] {
+			  background-image: none;
+			  border-radius: 3px;
+			}
+			div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,
+			div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover {
+			  color: #ffffff;
+			  border: none;
+			}
+			
+			.home div.wpforms-container-full .wpforms-form {
+			  margin-left: 15px;
+			  margin-right: 15px;
+			}
+			
+			div.wpforms-container-full .wpforms-form .wpforms-field {
+			  padding: 0 0 24px 0 !important;
+			}
+			div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+			  text-align: right;
+			}
+			div.wpforms-container-full .wpforms-form .wpforms-submit-container button {
+			  text-transform: uppercase;
+			}
+			div.wpforms-container-full .wpforms-form textarea {
+			  border: none !important;
+			}
+			div.wpforms-container-full .wpforms-form textarea:focus {
+			  border-width: 0 0 0 0 !important;
+			}
+			
+			.home div.wpforms-container .wpforms-form textarea {
+			  background-image: linear-gradient(#9c27b0, #9c27b0), linear-gradient(#d2d2d2, #d2d2d2);
+			  background-color: transparent;
+			  background-repeat: no-repeat;
+			  background-position: center bottom, center calc(100% - 1px);
+			  background-size: 0 2px, 100% 1px;
+			}
+			
+			/* WPForms media queries for front page and mobile*/
+			@media only screen and (max-width: 768px) {
+			  .wpforms-container-full .wpforms-form .wpforms-one-half, .wpforms-container-full .wpforms-form button {
+			    width: 100% !important;
+			    margin-left: 0 !important;
+			  }
+			  .wpforms-container-full .wpforms-form .wpforms-submit-container {
+			    text-align: center;
+			  }
+			}
+			
+			div.wpforms-container .wpforms-form input:focus,
+			div.wpforms-container .wpforms-form select:focus {
+			  border: none;
+			}
+		
+		.elementor-page .hestia-about > .container {
+		  width: 100%;
+		}
+		.elementor-page .pagebuilder-section {
+		  padding: 0;
+		}
+		.elementor-page .title-in-content, .elementor-page .image-in-page {
+		  display: none;
+		}
+		
+		.home.elementor-page .main-raised > section.hestia-about {
+		  overflow: visible;
+		}
+		
+		.elementor-editor-active .navbar {
+		  pointer-events: none;
+		}
+		
+		.elementor-editor-active #elementor.elementor-edit-mode .elementor-element-overlay {
+		  z-index: 1000000;
+		}
+		
+		.elementor-page.page-template-template-fullwidth .blog-post-wrapper > .container {
+		  width: 100%;
+		}
+		.elementor-page.page-template-template-fullwidth .blog-post-wrapper > .container .col-md-12 {
+		  padding: 0;
+		}
+		.elementor-page.page-template-template-fullwidth article.section {
+		  padding: 0;
+		}
+
+		.elementor-text-editor p, 
+		.elementor-text-editor h1, 
+		.elementor-text-editor h2, 
+		.elementor-text-editor h3, 
+		.elementor-text-editor h4, 
+		.elementor-text-editor h5, 
+		.elementor-text-editor h6 {
+		  font-size: inherit;
+		}
+.hestia-top-bar, .hestia-top-bar .widget.widget_shopping_cart .cart_list {
 			background-color: #363537
 		}
 		.hestia-top-bar .widget .label-floating input[type=search]:-webkit-autofill {
@@ -381,8 +559,24 @@ img.emoji {
 		.footer div[id^=woocommerce_price_filter] .price_slider .ui-slider-handle {
 			border-color: #e91e63;
 		}</style>
+<link rel="stylesheet" id="elementor-icons-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.5" type="text/css" media="all">
+<style id="elementor-frontend-inline-css" type="text/css">@font-face{font-family:eicons;src:url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}</style>
+<link rel="stylesheet" id="elementor-post-224-css" href="https://myhan1703.github.io/mywordpress/wp-content/uploads/elementor/css/post-224.css?ver=1634103364" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="hestia-elementor-style-css" href="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/css/page-builder-style.css?ver=3.0.19" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-225-css" href="https://myhan1703.github.io/mywordpress/wp-content/uploads/elementor/css/post-225.css?ver=1634368960" type="text/css" media="all">
+<link rel="stylesheet" id="ecs-styles-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=vietnamese&#038;ver=5.8.1" type="text/css" media="all">
 <script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="ecs_ajax_load-js-extra">
+/* <![CDATA[ */
+var ecs_ajax_params = {"ajaxurl":"https:\/\/myhan1703.github.io\/mywordpress\/wp-admin\/admin-ajax.php","posts":"{\"category_name\":\"tui-xach-nu-hang-hieu-cao-cap\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"tag\":\"\",\"cat\":40,\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.3" id="ecs_ajax_load-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.3" id="ecs-script-js"></script>
 <link rel="https://api.w.org/" href="https://myhan1703.github.io/mywordpress/wp-json/">
 <link rel="alternate" type="application/json" href="https://myhan1703.github.io/mywordpress/wp-json/wp/v2/categories/40">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://myhan1703.github.io/mywordpress/xmlrpc.php?rsd">
@@ -392,7 +586,7 @@ img.emoji {
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 </head>
 
-<body class="archive category category-tui-xach-nu-hang-hieu-cao-cap category-40 theme-hestia woocommerce-no-js header-layout-default">
+<body class="archive category category-tui-xach-nu-hang-hieu-cao-cap category-40 theme-hestia woocommerce-no-js header-layout-default elementor-default elementor-kit-224">
 		<div class="wrapper ">
 		<header class="header ">
 			<div style="display: none"></div>		<nav class="navbar navbar-default navbar-fixed-top  hestia_left navbar-not-transparent">
@@ -418,6 +612,7 @@ img.emoji {
 <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Giỏ hàng" href="https://myhan1703.github.io/mywordpress/gio-hang/">Giỏ hàng</a></li>
 <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a title="Thanh toán" href="https://myhan1703.github.io/mywordpress/thanh-toan/">Thanh toán</a></li>
 <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a title="Tài khoản" href="https://myhan1703.github.io/mywordpress/tai-khoan/">Tài khoản</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a title="Liên Hệ" href="https://myhan1703.github.io/mywordpress/lien-he-2/">Liên Hệ</a></li>
 </ul></div>			</div>
 					</nav>
 				</header>
@@ -431,17 +626,40 @@ img.emoji {
 			<div class="row">
 								<div class="col-md-8 archive-post-wrap">
 					<article id="post-206" class="card card-blog card-plain post-206 post type-post status-publish format-standard has-post-thumbnail hentry category-tui-xach-nu-hang-hieu-cao-cap tag-tui-xach-nu-cao-cap"><div class="row ">
-<div class="col-ms-5 col-sm-5"><div class="card-image"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/" title="túi xách nữ hàng hiệu cao cấp"><img width="274" height="240" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/tui-xach-chanel-chinh-hang2_1.jpg" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy"></a></div></div>
+<div class="col-ms-5 col-sm-5"><div class="card-image"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/" title="Túi xách nữ hàng hiệu cao cấp"><img width="274" height="240" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/tui-xach-chanel-chinh-hang2_1.jpg" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy"></a></div></div>
 <div class="col-ms-7 col-sm-7">
 <h6 class="category text-info">
 <a href="https://myhan1703.github.io/mywordpress/category/tui-xach-nu-hang-hieu-cao-cap/" title="Xem toàn bộ các bài trong Túi xách nữ hàng hiệu cao cấp" rel="tag">Túi xách nữ hàng hiệu cao cấp</a> </h6>
-<h2 class="card-title entry-title"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/" title="túi xách nữ hàng hiệu cao cấp" rel="bookmark">túi xách nữ hàng hiệu cao cấp</a></h2>
+<h2 class="card-title entry-title"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/" title="Túi xách nữ hàng hiệu cao cấp" rel="bookmark">Túi xách nữ hàng hiệu cao cấp</a></h2>
 <div class="card-description entry-summary ">
-<p><span>Top những <strong>chiếc túi xách nữ túi đeo chéo nữ hàng hiệu cao cấp</strong> phong cách thời trang đẹp nhất hiện nay. Những chiếc <strong>túi xách nữ</strong> mang phong cách hiện đại cao cấp với chất liệu da mềm mại và chất lượng. Giá thành túi xách rẻ và phù hợp với mọi lứa tuổi.</span></p>
-<p><img loading="lazy" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/images-1.jpg" alt="" width="225" height="225" class="alignnone size-full wp-image-91"> <img loading="lazy" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/images-11.jpg" alt="" width="225" height="225" class="alignnone size-full wp-image-97"> <img loading="lazy" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/images-8.jpg" alt="" width="225" height="225" class="alignnone size-medium wp-image-95"> <img loading="lazy" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/09/2556849tui_xach_nu_gucci_dionysus_chuan_authentic__1.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-93"></p>
-<p> <a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/#more-206" class="more-link"><span aria-label="Đọc tiếp túi xách nữ hàng hiệu cao cấp">(more&hellip;)</span></a></p>
+<p><span>Top những <em><strong>chiếc túi xách nữ túi đeo chéo nữ hàng hiệu cao cấp</strong> phong cách thời trang đẹp nhất</em> hiện nay. Những chiếc <em><strong>túi xách nữ</strong> </em>mang phong cách hiện đại cao cấp với chất liệu da mềm mại và chất lượng. Giá thành túi xách rẻ và phù hợp với mọi lứa tuổi.</span></p>
+<p> <a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/#more-206" class="more-link"><span aria-label="Đọc tiếp Túi xách nữ hàng hiệu cao cấp">(more&hellip;)</span></a></p>
 </div>
-<div class="posted-by vcard author">Bởi <a href="https://myhan1703.github.io/mywordpress/author/nguyen-huynh-my-han/" title="Nguyen Huynh My Han" class="url"><b class="author-name fn">Nguyen Huynh My Han</b></a>, <a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/"><time class="entry-date published" datetime="2021-10-10T07:03:24+00:00" content="2021-10-10">23 phút</time><time class="updated hestia-hidden" datetime="2021-10-10T07:25:56+00:00">10 Tháng Mười, 2021</time> trước </a>
+<div class="posted-by vcard author">Bởi <a href="https://myhan1703.github.io/mywordpress/author/nguyen-huynh-my-han/" title="Nguyen Huynh My Han" class="url"><b class="author-name fn">Nguyen Huynh My Han</b></a>, <a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/"><time class="entry-date published" datetime="2021-10-10T07:03:24+00:00" content="2021-10-10">1 tuần</time><time class="updated hestia-hidden" datetime="2021-10-13T05:47:50+00:00">10 Tháng Mười, 2021</time> trước </a>
+</div>
+</div>
+</div></article><article id="post-24" class="card card-blog card-plain post-24 post type-post status-publish format-standard has-post-thumbnail hentry category-tui-xach-nu-hang-hieu-cao-cap tag-tui-xach-nu-cao-cap"><div class="row ">
+<div class="col-ms-5 col-sm-5"><div class="card-image"><a href="https://myhan1703.github.io/mywordpress/saffron-bun/" title="DIOR"><img width="357" height="188" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/08/Screenshot-2021-10-01-225048.png" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy"></a></div></div>
+<div class="col-ms-7 col-sm-7">
+<h6 class="category text-info">
+<a href="https://myhan1703.github.io/mywordpress/category/tui-xach-nu-hang-hieu-cao-cap/" title="Xem toàn bộ các bài trong Túi xách nữ hàng hiệu cao cấp" rel="tag">Túi xách nữ hàng hiệu cao cấp</a> </h6>
+<h2 class="card-title entry-title"><a href="https://myhan1703.github.io/mywordpress/saffron-bun/" title="DIOR" rel="bookmark">DIOR</a></h2>
+<div class="card-description entry-summary ">
+<p> Saffron Bun (bánh mì nghệ tây) là một món ăn vô cùng ngon được làm từ các gia vị đậm đà, hương vị nghệ tây và có các trái nho khô. Các cuộn bánh có màu vàng rực rỡ của nghệ tây.Trong lịch sử, nghệ tây được trồng ở những nơi có khí hậu ôn hòa của Devon và Cornwall. Do đó, người dân ở đây đã làm các bánh mì này kết hợp với nghệ tây để cho ra đời món Saffron Bun. Hiện nay hầu hết các loại bánh này trên thị trường đều chứa thuốc nhuộm thực phẩm làm tăng màu vàng tự nhiên của bánh vì nghệ tây là loại gia vị đắt nhất thế giới, phải cần một lượng lớn mới ra màu vàng đậm sắc. Việc thêm màu thực phẩm đã làm Saffron trở nên phổ biến vào cuối chiến tranh thế giới thứ nhất, thúc đẩy các nhà làm bánh tìm ra nhiều cách khác nhau cho loại bánh này.</p>
+</div>
+<div class="posted-by vcard author">Bởi <a href="https://myhan1703.github.io/mywordpress/author/nguyen-huynh-my-han/" title="Nguyen Huynh My Han" class="url"><b class="author-name fn">Nguyen Huynh My Han</b></a>, <a href="https://myhan1703.github.io/mywordpress/saffron-bun/"><time class="entry-date published" datetime="2021-08-30T01:24:08+00:00" content="2021-08-30">2 tháng</time><time class="updated hestia-hidden" datetime="2021-10-17T14:07:45+00:00">30 Tháng Tám, 2021</time> trước </a>
+</div>
+</div>
+</div></article><article id="post-8" class="card card-blog card-plain post-8 post type-post status-publish format-standard has-post-thumbnail hentry category-tui-xach-nu-hang-hieu-cao-cap tag-tui-xach-nu-cao-cap"><div class="row ">
+<div class="col-ms-5 col-sm-5"><div class="card-image"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-cao-cap/" title="GUCCI"><img width="337" height="131" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/08/Screenshot-2021-10-01-225410.png" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy"></a></div></div>
+<div class="col-ms-7 col-sm-7">
+<h6 class="category text-info">
+<a href="https://myhan1703.github.io/mywordpress/category/tui-xach-nu-hang-hieu-cao-cap/" title="Xem toàn bộ các bài trong Túi xách nữ hàng hiệu cao cấp" rel="tag">Túi xách nữ hàng hiệu cao cấp</a> </h6>
+<h2 class="card-title entry-title"><a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-cao-cap/" title="GUCCI" rel="bookmark">GUCCI</a></h2>
+<div class="card-description entry-summary ">
+<p>Bò bít tết là món ngon có nguồn gốc từ châu Âu nổi tiếng khắp thế giới. Món ăn này thường được dùng kèm với khoai tây chiên hoặc salad. Chế biến bò bít tết chuẩn vị Pháp không phải điều đơn giản, nó đòi hỏi bạn nắm bắt công thức làm bò bít tết và thực hiện đúng các kỹ thuật cơ bản. Chắc chắn, đây không chỉ là món ăn mới lạ làm thay đổi thực đơn hằng ngày của bạn mà nó sẽ còn giúp bạn am hiểu hơn về đặc trưng ẩm thực của Pháp.</p>
+</div>
+<div class="posted-by vcard author">Bởi <a href="https://myhan1703.github.io/mywordpress/author/nguyen-huynh-my-han/" title="Nguyen Huynh My Han" class="url"><b class="author-name fn">Nguyen Huynh My Han</b></a>, <a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-cao-cap/"><time class="entry-date published" datetime="2021-08-25T03:47:54+00:00" content="2021-08-25">2 tháng</time><time class="updated hestia-hidden" datetime="2021-10-17T14:11:57+00:00">25 Tháng Tám, 2021</time> trước </a>
 </div>
 </div>
 </div></article>				</div>
@@ -458,28 +676,20 @@ img.emoji {
 		<h5>Bài viết mới</h5>
 		<ul>
 											<li>
-					<a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/">túi xách nữ hàng hiệu cao cấp</a>
-									</li>
-											<li>
-					<a href="https://myhan1703.github.io/mywordpress/chanel/">CHANEL</a>
+					<a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-hang-hieu-cao-cap/">Túi xách nữ hàng hiệu cao cấp</a>
 									</li>
 											<li>
 					<a href="https://myhan1703.github.io/mywordpress/saffron-bun/">DIOR</a>
 									</li>
 											<li>
-					<a href="https://myhan1703.github.io/mywordpress/am-thuc-chau-au/">GUCCI</a>
-									</li>
-											<li>
-					<a href="https://myhan1703.github.io/mywordpress/chao-moi-nguoi/">Chào tất cả mọi người!</a>
+					<a href="https://myhan1703.github.io/mywordpress/tui-xach-nu-cao-cap/">GUCCI</a>
 									</li>
 					</ul>
 
 		</div>
 <div id="recent-comments-2" class="widget widget_recent_comments">
 <h5>Phản hồi gần đây</h5>
-<ul id="recentcomments"><li class="recentcomments">
-<span class="comment-author-link"><a href="https://wordpress.org/" rel="external nofollow ugc" class="url">Một người bình luận WordPress</a></span> trong <a href="https://myhan1703.github.io/mywordpress/chao-moi-nguoi/#comment-1">Chào tất cả mọi người!</a>
-</li></ul>
+<ul id="recentcomments"></ul>
 </div>
 <div id="archives-2" class="widget widget_archive">
 <h5>Lưu trữ</h5>
@@ -492,10 +702,7 @@ img.emoji {
 <div id="categories-2" class="widget widget_categories">
 <h5>Chuyên mục</h5>
 			<ul>
-					<li class="cat-item cat-item-1">
-<a href="https://myhan1703.github.io/mywordpress/category/khong-phan-loai/">Chưa phân loại</a>
-</li>
-	<li class="cat-item cat-item-40 current-cat">
+					<li class="cat-item cat-item-40 current-cat">
 <a aria-current="page" href="https://myhan1703.github.io/mywordpress/category/tui-xach-nu-hang-hieu-cao-cap/">Túi xách nữ hàng hiệu cao cấp</a>
 </li>
 			</ul>
@@ -525,6 +732,7 @@ img.emoji {
 <li class="page_item page-item-76"><a href="https://myhan1703.github.io/mywordpress/gio-hang/">Giỏ hàng</a></li>
 <li class="page_item page-item-16"><a href="https://myhan1703.github.io/mywordpress/homepage/">homepage</a></li>
 <li class="page_item page-item-18"><a href="https://myhan1703.github.io/mywordpress/lien-he/">Liên hệ</a></li>
+<li class="page_item page-item-216"><a href="https://myhan1703.github.io/mywordpress/lien-he-2/">Liên Hệ</a></li>
 <li class="page_item page-item-80"><a href="https://myhan1703.github.io/mywordpress/tai-khoan/">Tài khoản</a></li>
 <li class="page_item page-item-78"><a href="https://myhan1703.github.io/mywordpress/thanh-toan/">Thanh toán</a></li>
 <li class="page_item page-item-185"><a href="https://myhan1703.github.io/mywordpress/">Trang Chủ</a></li>
@@ -535,14 +743,52 @@ img.emoji {
 					</footer>
 				</div>
 	</div>
-	<script type="text/javascript">
+		<div data-elementor-type="popup" data-elementor-id="225" class="elementor elementor-225 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:{&quot;page_load_delay&quot;:5,&quot;page_load&quot;:&quot;yes&quot;},&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fdc1b49 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fdc1b49" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-495e8f9" data-id="495e8f9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cabbce2 elementor-widget elementor-widget-image" data-id="cabbce2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="750" src="https://myhan1703.github.io/mywordpress/wp-content/uploads/2021/10/big-sale-d-illustration-white-background-43867746.jpg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2011392" data-id="2011392" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b18a0f elementor-widget elementor-widget-heading" data-id="6b18a0f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-medium">Giảm 15% <br>
+cho mỗi đơn hàng từ 500.000d khi nhập  mã <br>
+DEALTHANG10 <br>
+ tại HANA !  
+</h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				</div>
+		</div>
+			<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 			document.body.className = c;
 		})();
 	</script>
-	<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.6.0" id="jquery-blockui-js"></script>
+	<link rel="stylesheet" id="e-animations-css" href="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.5" type="text/css" media="all">
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/myhan1703.github.io\/mywordpress\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.6.0" id="jquery-blockui-js"></script>
 <script type="text/javascript" id="wc-add-to-cart-js-extra">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/myproject\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem giỏ hàng","cart_url":"https:\/\/myhan1703.github.io\/mywordpress\/gio-hang\/","is_cart":"","cart_redirect_after_add":"yes"};
@@ -572,5 +818,36 @@ var hestiaViewcart = {"view_cart_label":"Xem giỏ hàng","view_cart_link":"http
 </script>
 <script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/themes/hestia/assets/js/script.min.js?ver=3.0.19" id="hestia_scripts-js"></script>
 <script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.5" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.5" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/myhan1703.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nonce":"0764be29ad","urls":{"assets":"https:\/\/myhan1703.github.io\/mywordpress\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/myhan1703.github.io\/mywordpress\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/myhan1703.github.io\/mywordpress\/gio-hang\/","checkout_page_url":"https:\/\/myhan1703.github.io\/mywordpress\/thanh-toan\/"},"facebook_sdk":{"lang":"vi","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/myhan1703.github.io\/mywordpress\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.5" id="share-link-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Chia sẻ trên Facebook","shareOnTwitter":"Chia sẻ trên Twitter","pinIt":"Ghim nó","download":"Tải xuống","downloadImage":"Tải hình ảnh","fullscreen":"Toàn màn hình","zoom":"Thu phóng","share":"Chia sẻ","playVideo":"Chơi Video","previous":"Previous","next":"Next","close":"Đóng"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Thiết bị di động","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Máy tính bảng","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/myhan1703.github.io\/mywordpress\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Túi xách nữ hàng hiệu cao cấp - hana","excerpt":""}};
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.5" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.4.1" id="pro-preloaded-elements-handlers-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.5" id="preloaded-modules-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.4.1" id="e-sticky-js"></script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
+<script type="text/javascript" id="wpforms-elementor-js-extra">
+/* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://myhan1703.github.io/mywordpress/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.0" id="wpforms-elementor-js"></script>
 </body>
 </html>
